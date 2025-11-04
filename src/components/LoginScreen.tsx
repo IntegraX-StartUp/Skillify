@@ -45,7 +45,7 @@ export function LoginScreen({ onLogin }: LoginScreenProps) {
               className="inline-block"
             >
               <img 
-                src="https://github.com/IntegraX-StartUp/Skillify/blob/9f1e2a22d54797b9f77b2727115b78706f1f11de/src/assets/max.png" 
+                src="/src/assets/max.png" 
                 alt="Skillify Logo" 
                 width="150"
                 className="object-contain"
