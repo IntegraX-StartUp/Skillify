@@ -45,7 +45,7 @@ export function LoginScreen({ onLogin }: LoginScreenProps) {
               className="inline-block"
             >
               <img 
-                src="/src/assets/max.png" 
+                src="https://media.discordapp.net/attachments/1437571358623137823/1437571601733521551/max.png?ex=6913ba62&is=691268e2&hm=b0868f57daeb8131836bb57548faf44b924e2c44df1a40897786bcd37160e3c3&=&format=webp&quality=lossless&width=800&height=800" 
                 alt="Skillify Logo" 
                 width="150"
                 className="object-contain"
